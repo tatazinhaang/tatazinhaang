@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tatazinhaang
 -🌱 Sou formada e m  Admnistração e atualmente sou estudante de Análise e Desenvolvimento de Sistemas.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on  projetos  front-end
+- 📫 How to reach me : tatazinhagms2@gmail.com
 
 <!---
 tatazinhaang/tatazinhaang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
