@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tatazinhaang
--🌱 Sou formada e m  Admnistração e atualmente sou estudante de Análise e Desenvolvimento de Sistemas.
+-🌱 Sou formada e m  Administração e  atualmente estudante de Análise e Desenvolvimento de Sistemas.
 - 💞️ I’m looking to collaborate on  projetos  front-end
 - 📫 How to reach me : tatazinhagms2@gmail.com
 
